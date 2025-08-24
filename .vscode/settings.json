@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "C:/Users/Daniel/Desktop/ProyectoSpark/app_spark/windows"
+    "cmake.sourceDirectory": "C:/Users/Daniel/Desktop/ProyectoSpark/app_spark/windows",
+    "C_Cpp.errorSquiggles": "disabled"
 }

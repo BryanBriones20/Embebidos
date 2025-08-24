@@ -1,0 +1,18 @@
+# Flutter
+app_spark/.dart_tool/
+app_spark/.idea/
+app_spark/.vscode/
+app_spark/build/
+app_spark/ios/Flutter/Flutter.framework
+app_spark/.packages
+app_spark/pubspec.lock
+
+# PlatformIO
+firmware_spark/.pio/
+firmware_spark/.vscode/
+firmware_spark/.pioenvs/
+firmware_spark/.clang_complete
+
+# General
+*.log
+.DS_Store
