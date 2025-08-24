@@ -20,6 +20,14 @@ Toda la información se gestiona a través de una **base de datos Firebase**, a 
 
 ---
 
+## 🎮 Modo manual
+Además del modo automático de clasificación, Sppark incluye un **modo manual**, donde el usuario puede:
+- Controlar cada articulación del **robot de 5 GDL** mediante **sliders** en la aplicación móvil.
+- Ajustar la **velocidad de movimiento del robot**, permitiendo hacerlo más rápido o más lento según los requerimientos de la tarea.
+- Tener un control preciso del robot para pruebas, calibraciones o movimientos específicos.
+
+---
+
 ## 📂 Estructura del repositorio
 El repositorio está organizado en tres carpetas principales:
 
@@ -61,7 +69,7 @@ El repositorio está organizado en tres carpetas principales:
 ---
 
 ## 👨‍💻 Autores
-- **Cesar Daniel Pallazhco Nacipucha**  
-- Equipo de desarrollo Sppark
+- **Cesar Daniel Pallazhco **  
+- **Bryan Carlos Briones**
 
 ---
