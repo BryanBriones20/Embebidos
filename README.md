@@ -28,6 +28,15 @@ Además del modo automático de clasificación, Sppark incluye un **modo manual*
 
 ---
 
+## 🤖 Diseño del brazo robótico
+El **brazo robótico de 5 GDL** utilizado en este proyecto es de **diseño propio**, desarrollado completamente desde cero por el equipo.  
+- Se realizó el **diseño CAD** de cada una de sus articulaciones y eslabones, considerando la cinemática necesaria para las tareas de clasificación.  
+- El diseño mecánico se orientó a lograr una **estructura ligera, precisa y resistente**, adecuada para un prototipo de automatización de bajo costo.  
+- La arquitectura del robot permite tanto el **modo automático de clasificación**, como el **modo manual**, donde cada articulación puede controlarse de forma independiente mediante sliders en la aplicación.  
+- El desarrollo propio del brazo ofrece la posibilidad de **escalar el diseño**, adaptarlo a distintas tareas y explorar diferentes estrategias de control.  
+
+---
+
 ## 📂 Estructura del repositorio
 El repositorio está organizado en tres carpetas principales:
 
@@ -55,7 +64,7 @@ El repositorio está organizado en tres carpetas principales:
 ## 🛠️ Tecnologías utilizadas
 - **Hardware**
   - ESP32
-  - Robot de 5 GDL
+  - Brazo robotico de 5 GDL
   - Sensor de proximidad
   - Cámara web
   - Banda transportadora  
@@ -64,12 +73,12 @@ El repositorio está organizado en tres carpetas principales:
   - [PlatformIO](https://platformio.org/) para el firmware del ESP32
   - [Flutter](https://flutter.dev/) para la aplicación móvil
   - [Firebase](https://firebase.google.com/) para la base de datos en la nube
-  - [Python 3](https://www.python.org/) con librerías de lectura de QR
+  - [Python 3](https://www.python.org/) con librerías de visión por computadora
 
 ---
 
 ## 👨‍💻 Autores
-- **Cesar Daniel Pallazhco **  
+- **Cesar Daniel Pallazhco**  
 - **Bryan Carlos Briones**
 
 ---
